@@ -1,7 +1,7 @@
-import { useParams } from "react-router";
-import { useState, useEffect } from "react";
-import axios from "axios";
-import { BookCard } from "../BookCard/BookCard";
+//import { useParams } from "react-router";
+//import { useState, useEffect } from "react";
+//import axios from "axios";
+//import { BookCard } from "../BookCard/BookCard";
 import { SortAndFilterButtons } from "../SortAndFilterButtons/SortAndFilterButtons";
 import styled from "styled-components";
 
