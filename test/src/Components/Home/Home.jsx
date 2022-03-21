@@ -18,14 +18,7 @@ export const Home = () => {
         }
       />
 
-      <Main className="mainContainer">
-        {/* 
-            Iterate over books that you get from network
-            populate a <BookCard /> component
-            pass down books id, imageUrl, title, price and anything else that you want to 
-            show in books Card.
-        */}
-      </Main>
+  
     </div>
   );
 };
